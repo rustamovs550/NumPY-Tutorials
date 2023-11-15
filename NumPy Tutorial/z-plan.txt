@@ -1,0 +1,108 @@
+  					Training center site
+
+Saytdomain.uz/home
+
+1 Home page
+2 About page
+3 Contacts
+4 Courses
+5 Teachers
+6 Support
+
+
+7 Login 
+8 Sign up
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Userlarning turlari va huquqlari
+
+	1. Super-Admin
+	2.Admin
+	3. Teacher-subject-classroom_number
+	4. Student-subject-classroom_number
+	5. Parents
+	6 . User
+		
+
+					Huquqlari	
+
+	1. Super-admin
+        Super adminlar har qanday huquqlarga ega va uning vakolatiga kerivchi narsalar:
+        
+        1. Userlarni malumotlarini ko’rish
+
+        2. Userlarning :
+                        statuslarini o’zgartirish:
+                                                    administrator yaratish
+                                                    teacher yaratish
+                                                    student yaratish
+                                                    parents yaratish
+
+                        parollarini o’zgartirish:
+                                                    bu degani super-admin foydalanuvchining parolini o’zgartira oladi
+                        email pochtalarini:
+                                                    bu degani super-admin userlarning email pochtalarini o'zgartira oladi
+        
+        3. Saytga yangi page qo'shish huquqiga ega:
+                                                    1. yangi fan qoshish
+                                                    2. yangi sinfxona qo'shish
+                                                    va hokazo pagelarga o'zgartirish kirita oladi va oldin 
+                                                    qo'shilgan pagelarni nomlarini o'zgartira oladi 
+
+                                                    pagelarni o'chirib tashlash ham shuni ichiga kiradi
+
+
+        4. O'qituvchilarning dars o'tish darajasi haqida malumotlarni ko'rish va belgilash huquqiga ega:
+                        bu yerda o'qituvchilarning qay darajada dars o'tganligi haqida malumot bo'ladi bu malumotlar
+                        o'quvchilarning qo'ygan ballariga qarab belgilanadi. o'quvchilar har kunlik darsdan so'ng 
+                        o'qituvchini 10 ballik sistemada ballashga majburiy hisoblanadi.
+
+                        bir oylik darslarining o'tish salohiyati line chart ko'rinishida ko'rsatiladi
+			  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Saytdomain.uz/usernikname/userstatus/home
+
+Bu yerda statusda oquvchi bolsa oquvchi deb chiqadi
+
+1 . Home : bu pageda bizning saytimizda bo’layotgan yangiliklar va o’quvchilarimiz qanday yutuqlarga erishayotganligi namoyish 
+Etiladi
+
+
+
+2. Clasrooms: bu page faqat o’quvchi ,o’qituvchi , administrator va SuperAdminlar uchun ko’rinadi
+
+Saytdomain/username/usertatus/classrooms/classroom
+
+classroom
+
